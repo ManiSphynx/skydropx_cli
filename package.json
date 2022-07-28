@@ -9,7 +9,7 @@
   "author": "ManiSphynx",
   "license": "ISC",
   "bin": {
-    "skydropx": "./api/src/index.js"
+    "skydropx": "./index.js"
   },
   "dependencies": {
     "chalk": "^5.0.1",
